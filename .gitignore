@@ -1,0 +1,7 @@
+env/
+__pycache__/
+.idea/
+data/*
+!data/*/
+models/*
+node2vec_cpp/node2vec

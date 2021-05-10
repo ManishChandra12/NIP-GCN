@@ -1,0 +1,15 @@
+Case reports (patients): 0 
+Case study - organisation: 1
+Transmission / risk: 2
+Health impacts: 3
+About pregancy and childbirth (primary data): 4
+Diagnosis: 5
+Vaccine development: 6
+Treatment development: 7
+Genetics / biology: 8
+Social / economic / indirect impacts: 9
+Mental health impacts: 10
+Treatment evaluation: 11
+Other viruses (SARS, MERS etc.): 12
+Not primary data: 13
+Not on topic: 14
